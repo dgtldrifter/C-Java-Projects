@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=squareFeet
+comment0.target=Building(int)
+comment1.params=
+comment1.target=void\ GetCarbonFootprint()
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=gallons
+comment0.target=Car(double)
+comment1.params=
+comment1.target=void\ GetCarbonFootprint()
+numComments=2
